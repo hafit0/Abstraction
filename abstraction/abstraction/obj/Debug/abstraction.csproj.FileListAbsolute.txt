@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\abstraction\abstraction\bin\Debug\abstraction.exe.config
+C:\Users\ASUS\source\repos\abstraction\abstraction\bin\Debug\abstraction.exe
+C:\Users\ASUS\source\repos\abstraction\abstraction\bin\Debug\abstraction.pdb
+C:\Users\ASUS\source\repos\abstraction\abstraction\obj\Debug\abstraction.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\abstraction\abstraction\obj\Debug\abstraction.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\abstraction\abstraction\obj\Debug\abstraction.exe
+C:\Users\ASUS\source\repos\abstraction\abstraction\obj\Debug\abstraction.pdb
